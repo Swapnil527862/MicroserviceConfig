@@ -1,8 +1,5 @@
 spring.application.name=CONFIG-DEV
 
-eureka.
-client.
-service-url.
-defaultZone=
-http://localhost:8966/eureka
+
+eureka.client.service-url.defaultZone=http://localhost:8966/eureka
 

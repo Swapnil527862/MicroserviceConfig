@@ -1,0 +1,8 @@
+8 lines (6 sloc)  112 Bytes
+
+spring.application.name=CONFIG-PROD
+eureka.
+client.
+service-url.
+defaultZone=
+http://localhost:8966/eureka
